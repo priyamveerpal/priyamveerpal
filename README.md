@@ -1,16 +1,18 @@
-## Hi there 👋
+[![MasterHead](https://ncube.com/wp-content/uploads/2020/08/data-team-structure-2048x748.jpg)]
+<h1 align="center">Hi 👋, I'm Priyam Veer Pal</h1>
+<h3 align="center">a passionate Data Science student at IIT Madras</h3>
 
-<!--
-**priyamveerpal/priyamveerpal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Mathematics, Statistics, & Programming**
 
-Here are some ideas to get you started:
+- 📫 How to reach me **priyamveerpal@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/priyamveerpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priyamveerpal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/in/priyamveerpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/priyamveerpal" height="30" width="40" /></a>
+<a href="https://instagram.com/priyamveerpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="priyamveerpal" height="30" width="40" /></a>
+</p>
+
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=priyamveerpal&show_icons=true&locale=en" alt="priyamveerpal" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=priyamveerpal&" alt="priyamveerpal" /></p>
